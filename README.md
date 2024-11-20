@@ -78,7 +78,7 @@ Access the application at: [http://localhost:3000](http://localhost:3000)
 ---
 
 ### **Example Usage**  
-1. Enter two dates (e.g., "March 4, 1994" and "November 20, 2024").  
+1. Enter two dates (e.g., "January 1, 1995" and "November 20, 2024").  
 2. Click "Calculate".  
 3. See results showing the difference in years, months, and days.  
 
